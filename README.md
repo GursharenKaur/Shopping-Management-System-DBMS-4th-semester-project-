@@ -49,9 +49,9 @@ The database schema has been normalized to **Third Normal Form (3NF)** to ensure
 - Sample business logic implementation via PL/SQL triggers
 
 ## 👩‍💻 Contributors
-
-- Harshleen Kaur  
+ 
 - Gursharen Kaur Suri  
+- Harshleen Kaur 
 - Dishavpreet Kaur  
 - Karandeep Singh Bhasin  
 
